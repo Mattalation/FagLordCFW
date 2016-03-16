@@ -18,3 +18,6 @@ Note : This Modified NAND image must be installed with Unsigned-NAND-Installer o
 This Tool Uses EcDevTool through E-commerce, a CTR-SDK developer tool since sdk 7.x and above.
 It is ideally used for debugging the Nintendo E-shop, however, EcDevTool has the option to Add funds to the account balance.
 Adding funds works on both Dev and Retail E-shop.
+
+#Sdk 
+Yes this uses real ctr_sdk shit not that shitty useless Homebrew crap.
