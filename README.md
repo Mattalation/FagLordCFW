@@ -8,6 +8,7 @@ This tool allows for the installation of an edited NAND image to be installed to
 
 #Bootrom Dumper
 This tool will allow you to dump your own Nintendo 3ds's bootrom!
+Note : You will need a Partner-CTR Debugger or IS-Snake-Debugger to do this.
 
 #Real ColdBoot installer
 This application will write to the Nintendo 3ds's NAND.bin patching Signigtures and TWL Firm.
